@@ -47,7 +47,7 @@ python train.py --epochs 100 --batch_size 64 --dataset celebA
 
 Training Parameters:
 
-Epochs: 30
+Epochs: 25
 
 Batch Size: 64 (default)
 
