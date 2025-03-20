@@ -1,4 +1,4 @@
-mage Generation Using GAN (Generative Adversarial Network)
+Image Generation Using GAN (Generative Adversarial Network)
 Overview
 This project focuses on generating images using a Generative Adversarial Network (GAN). GANs are a class of machine learning frameworks where two neural networks, the generator and the discriminator, are trained simultaneously through adversarial processes. The generator creates images that are as realistic as possible, while the discriminator tries to distinguish between real and generated images. Over time, the generator improves its ability to create realistic images.
 
