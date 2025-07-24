@@ -51,6 +51,8 @@ numpy: For numerical operations.
 
 Results
 After training the GAN, you should be able to generate realistic face images. The quality of the generated images will improve as the training progresses. The final results can be visualized using matplotlib.
+<img src="Screenshot 2025-07-24 232054.png" alt="Sample 1" width="400"/>
+<img src="Screenshot 2025-07-24 232114.png" alt="Sample 2" width="400"/>
 
 Acknowledgments
 CelebA Dataset: The CelebA dataset is used for training the GAN. It is a large-scale face attributes dataset with more than 200,000 celebrity images.
