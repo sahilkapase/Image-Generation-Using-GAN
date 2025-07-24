@@ -51,7 +51,11 @@ numpy: For numerical operations.
 
 Results
 After training the GAN, you should be able to generate realistic face images. The quality of the generated images will improve as the training progresses. The final results can be visualized using matplotlib.
+
+Before training -
 <img src="Screenshot 2025-07-24 232054.png" alt="Sample 1" width="400"/>
+
+After trainign -
 <img src="Screenshot 2025-07-24 232114.png" alt="Sample 2" width="400"/>
 
 Acknowledgments
